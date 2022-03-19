@@ -1,0 +1,1 @@
+git+https://git@github.com/yjg30737/python-color-getter.git@main
