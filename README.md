@@ -15,7 +15,7 @@ Currently the only feature of this is changing the brightness of color of CSS st
 * ```darker() -> str``` - Make colors darker. #EEE -> #DDD. Return the raw css code which is darker than the original.
 
 ## Example
-Example application is <a href="https://github.com/yjg30737/pyqt-dark-calculator.git>pyqt-dark-calculator"</a>.
+Example application is <a href="https://github.com/yjg30737/pyqt-dark-calculator.git">pyqt-dark-calculator</a>.
 
 ```python
 from PyQt5.QtWidgets import QApplication
