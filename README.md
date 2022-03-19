@@ -8,7 +8,7 @@ Python CSS style sheets color changer
 ```pip3 install git+https://github.com/yjg30737/python-stylesheets-color-changer.git --upgrade```
 
 ## Included Packages
-* <a href="https://github.com/yjg30737/python-color-getter.git">```python-color-getter```</a>
+* <a href="https://github.com/yjg30737/python-color-getter.git">python-color-getter</a>
 
 ## Feature
 * ```StyleSheetsColorChanger(stylesheets: str)``` - Constructor.
