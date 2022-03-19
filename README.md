@@ -9,7 +9,7 @@ Currently the only feature of this is changing the brightness of color of CSS st
 ## Included Packages
 * <a href="https://github.com/yjg30737/python-color-getter.git">python-color-getter</a>
 
-## Feature
+## Class/Method Overview
 * ```StyleSheetsColorChanger(stylesheets: str)``` - Constructor. ```stylesheets``` argument accepts the raw css code.
 * ```lighter() -> str``` - Make colors lighter. #DDD -> #EEE. Return the raw css code which is lighter than the original.
 * ```darker() -> str``` - Make colors darker. #EEE -> #DDD. Return the raw css code which is darker than the original.
