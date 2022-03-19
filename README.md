@@ -50,8 +50,9 @@ How about make it lighter?
 
 ![image](https://user-images.githubusercontent.com/55078043/159101542-14cb81c8-93b8-4777-88ce-ace894179561.png)
 
+I know that is hard to distinguish. So i'll show you all three of them at once.
 
-
+<img src="https://user-images.githubusercontent.com/55078043/159101542-14cb81c8-93b8-4777-88ce-ace894179561.png" width="200" height="300"><img src="https://user-images.githubusercontent.com/55078043/159101467-1698eeca-5e8f-4a1e-90ff-1aa529fa5200.png" width="200" height="300"><img src="https://user-images.githubusercontent.com/55078043/159101495-21db5f75-275e-4d0c-86e4-a22a6b2fe7ff.png" width="200" height="300">
 
 
 
