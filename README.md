@@ -17,6 +17,13 @@ Currently the only feature of this is changing the brightness of color of CSS st
 ## Example
 Example application is <a href="https://github.com/yjg30737/pyqt-dark-calculator.git">pyqt-dark-calculator</a>.
 
+Original
+
+![image](https://user-images.githubusercontent.com/55078043/159101467-1698eeca-5e8f-4a1e-90ff-1aa529fa5200.png)
+
+I'll make this darker.
+
+Code Sample
 ```python
 from PyQt5.QtWidgets import QApplication
 from pyqt_dark_calculator import Calculator
@@ -34,3 +41,20 @@ if __name__ == "__main__":
     calculator.show()
     app.exec_()
 ```
+
+Result
+
+![image](https://user-images.githubusercontent.com/55078043/159101495-21db5f75-275e-4d0c-86e4-a22a6b2fe7ff.png)
+
+How about make it lighter?
+
+![image](https://user-images.githubusercontent.com/55078043/159101542-14cb81c8-93b8-4777-88ce-ace894179561.png)
+
+
+
+
+
+
+
+
+
