@@ -10,7 +10,6 @@ setup(
     description='Python CSS style sheets color changer',
     url='https://github.com/yjg30737/python-stylesheets-color-changer.git',
     install_requires=[
-        'PyQt5>=5.8',
         'python-color-getter @ git+https://git@github.com/yjg30737/python-color-getter.git@main'
     ]
 )
